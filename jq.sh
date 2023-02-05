@@ -1,2 +1,2 @@
 # jq
-sudo apt install jq
+sudo apt install -y jq
